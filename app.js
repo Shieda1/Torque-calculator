@@ -1,3 +1,5 @@
+// https://calculator.swiftutors.com/torque-calculator.html
+
 const v1 =  document.getElementById('v1');
 const v2 = document.getElementById('v2');
 const btn = document.getElementById('btn');
